@@ -1,0 +1,5 @@
+# One username or full LinkedIn profile URL per line. Lines starting with '#' are ignored.
+# Examples:
+# https://www.linkedin.com/in/satyanadella/
+# janedoe
+janedoe
