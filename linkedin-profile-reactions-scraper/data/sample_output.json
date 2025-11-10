@@ -1,0 +1,35 @@
+{
+  "reactions": [
+    {
+      "action": "like",
+      "text": "Excited to announce our latest AI-powered solution for business analytics.",
+      "author": {
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "headline": "Data Scientist at TechCorp",
+        "profile_url": "https://linkedin.com/in/janedoe",
+        "profile_picture": "https://media.licdn.com/janedoe.jpg"
+      },
+      "post_stats": {
+        "totalReactionCount": 1177,
+        "like": 884,
+        "appreciation": 3,
+        "empathy": 103,
+        "interest": 22,
+        "praise": 165,
+        "comments": 54,
+        "reposts": 61
+      },
+      "timestamps": {
+        "relative": "5d"
+      }
+    }
+  ],
+  "metadata": {
+    "pagination_token": "dXJuOmxpOmFj...",
+    "profile": "janedoe",
+    "pages": 1,
+    "per_page": 50,
+    "mode": "demo"
+  }
+}
